@@ -1,0 +1,2 @@
+# nsgo
+Code for beginners
