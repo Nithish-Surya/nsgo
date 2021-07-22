@@ -1,2 +1,1 @@
-# nsgo
-Code for beginners
+this repo is for beginners and for all
